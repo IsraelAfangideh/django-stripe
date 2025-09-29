@@ -1,0 +1,1 @@
+Practice project using Django CMS and stripe to make a saas checkout page
